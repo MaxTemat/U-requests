@@ -1,2 +1,2 @@
 # U-requests
-Android app for management of requests in the university
+Android app for management of requests in a university
